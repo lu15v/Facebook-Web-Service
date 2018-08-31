@@ -1,5 +1,5 @@
 # Facebook Rest API
-A Web Service using: RestFb 2.8.0, JDK 8 and Glassfish 4.1.2. Allowing interoperability with older versions of Glassfish and JDK.
+A Web Service using: RestFb 2.8.0, JDK 8 and Glassfish 4.1.2. Allowing interoperability with older versions of Glassfish and JDK. (Versions not compatible with TLSv2)
 
 ## Requiriments (Technologies)
 
